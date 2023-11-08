@@ -9,11 +9,11 @@ body {
   font-family: Lato;
 }
 
-/* header {
+header {
   padding: 154px 0 100px;
   background-color: #c7d7dc;
-} */
-.header img {
+}
+.header image {
   width:10%;
   height:20%;
 }
